@@ -203,7 +203,7 @@ print(toDic) // ["type": "work", "tel": "186xxxxxxxx"]
 
 
 
-## Installation ![how](https://cs.adelaide.edu.au/~christoph/badges/content-how-green.svg) 4 ![when](https://cs.adelaide.edu.au/~christoph/badges/content-when-yellowgreen.svg)
+## Installation ![how](https://cs.adelaide.edu.au/~christoph/badges/content-how-green.svg) ![when](https://cs.adelaide.edu.au/~christoph/badges/content-when-yellowgreen.svg)
 
 | swift version | framework version |
 | - | - |
